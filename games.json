@@ -1,0 +1,25 @@
+{
+  "repo": "windos5-io-classic",
+  "category": "classic",
+  "count": 18,
+  "games": [
+    {"id": "agar-io", "name": "Agar.io", "sub": "Cell growth", "type": "embed", "url": "https://agar.io", "preview": "https://www.google.com/s2/favicons?domain=agar.io&sz=128", "category": "classic", "featured": false},
+    {"id": "slither-io", "name": "Slither.io", "sub": "Snake arena", "type": "embed", "url": "https://slither.io", "preview": "https://www.google.com/s2/favicons?domain=slither.io&sz=128", "category": "classic", "featured": false},
+    {"id": "diep-io", "name": "Diep.io", "sub": "Tank shooter", "type": "embed", "url": "https://diep.io", "preview": "https://www.google.com/s2/favicons?domain=diep.io&sz=128", "category": "classic", "featured": false},
+    {"id": "paper-io-2", "name": "Paper.io 2", "sub": "Territory", "type": "embed", "url": "https://paper-io.com", "preview": "https://www.google.com/s2/favicons?domain=paper-io.com&sz=128", "category": "classic", "featured": false},
+    {"id": "hole-io", "name": "Hole.io", "sub": "Black hole", "type": "embed", "url": "https://hole-io.com", "preview": "https://www.google.com/s2/favicons?domain=hole-io.com&sz=128", "category": "classic", "featured": false},
+    {"id": "snake-io", "name": "Snake.io", "sub": "Snake", "type": "embed", "url": "https://snake.io", "preview": "https://www.google.com/s2/favicons?domain=snake.io&sz=128", "category": "classic", "featured": false},
+    {"id": "worms-zone", "name": "Worms Zone", "sub": "Worm", "type": "embed", "url": "https://wormszone.io", "preview": "https://www.google.com/s2/favicons?domain=wormszone.io&sz=128", "category": "classic", "featured": false},
+    {"id": "little-big-snake", "name": "Little Big Snake", "sub": "Snake", "type": "embed", "url": "https://littlebigsnake.com", "preview": "https://www.google.com/s2/favicons?domain=littlebigsnake.com&sz=128", "category": "classic", "featured": false},
+    {"id": "territorial-io", "name": "Territorial.io", "sub": "Strategy map", "type": "embed", "url": "https://territorial.io", "preview": "https://www.google.com/s2/favicons?domain=territorial.io&sz=128", "category": "classic", "featured": false},
+    {"id": "mope-io", "name": "Mope.io", "sub": "Animal evolution", "type": "embed", "url": "https://mope.io", "preview": "https://www.google.com/s2/favicons?domain=mope.io&sz=128", "category": "classic", "featured": false},
+    {"id": "deeeep-io", "name": "Deeeep.io", "sub": "Ocean survival", "type": "embed", "url": "https://deeeep.io", "preview": "https://www.google.com/s2/favicons?domain=deeeep.io&sz=128", "category": "classic", "featured": false},
+    {"id": "florr-io", "name": "Florr.io", "sub": "Petals arena", "type": "embed", "url": "https://florr.io", "preview": "https://www.google.com/s2/favicons?domain=florr.io&sz=128", "category": "classic", "featured": false},
+    {"id": "galax-io", "name": "Galax.io", "sub": "Space ships", "type": "embed", "url": "https://galax.io", "preview": "https://www.google.com/s2/favicons?domain=galax.io&sz=128", "category": "classic", "featured": false},
+    {"id": "splix-io", "name": "Splix.io", "sub": "Territory lines", "type": "embed", "url": "https://splix.io", "preview": "https://www.google.com/s2/favicons?domain=splix.io&sz=128", "category": "classic", "featured": false},
+    {"id": "powerline-io", "name": "Powerline.io", "sub": "Snake neon", "type": "embed", "url": "https://powerline.io", "preview": "https://www.google.com/s2/favicons?domain=powerline.io&sz=128", "category": "classic", "featured": false},
+    {"id": "jimboy-io", "name": "Jimboy.io", "sub": "Blob", "type": "embed", "url": "https://jimboy.io", "preview": "https://www.google.com/s2/favicons?domain=jimboy.io&sz=128", "category": "classic", "featured": false},
+    {"id": "vertix-io", "name": "Vertix.io", "sub": "FPS classic", "type": "embed", "url": "https://vertix.io", "preview": "https://www.google.com/s2/favicons?domain=vertix.io&sz=128", "category": "classic", "featured": false},
+    {"id": "wings-io", "name": "Wings.io", "sub": "Plane dogfight", "type": "embed", "url": "https://wings.io", "preview": "https://www.google.com/s2/favicons?domain=wings.io&sz=128", "category": "classic", "featured": false}
+  ]
+}

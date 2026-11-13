@@ -1,2 +1,2 @@
 # windos5-io-classic
-Windos 5 IO catalog: classic growth/snake/territory games
+Classic .io games for Windos 5. Loaded by the main windos-5 PC.
